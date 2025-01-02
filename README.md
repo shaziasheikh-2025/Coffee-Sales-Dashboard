@@ -1,4 +1,4 @@
-# Coffee-Sales-Dashboard(nteractive Dashboard creation using MS Excel)
+# Coffee-Sales-Dashboard(Interactive Dashboard creation using MS Excel)
 ## Project Description
 The goal of this project is to create a dashboard of sales data for coffee store. The objective was crystal clear: transform raw data into actionable insights that drive smarter business decisions. The project involved a meticulous process, from collecting data to crafting visualizations that offer deep insights.
 
@@ -27,6 +27,7 @@ This stage began with creating a working sheet and transforming the datasets pre
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table on a separate sheet named “Dashboard”. For user friendly and interactive experience 3 "Slicers" and 1 “Timeline” were added.
+
 Below is a snippet of the final dashboard in Excel.
 
 ![CoffeeSalesDashboard](https://github.com/user-attachments/assets/26e27889-ae49-4273-8ed8-878ad42e85e1)
