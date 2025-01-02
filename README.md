@@ -51,6 +51,6 @@ Below is a snippet of the final dashboard in Excel.
 
 ## Instructions for Use
 - Download the dataset from the provided GitHub repository link.
-- Explore the interactive dashboard to gain insights into bike sales based on various demographics.
+- Explore the interactive dashboard to gain insights into Coffee sales based on various demographics.
 - Contribute or modify the project as needed for your specific requirements.
 
